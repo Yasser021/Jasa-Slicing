@@ -1,0 +1,35 @@
+body{
+    font-family: 'Lexend', sans-serif;
+}
+
+.warna-nav {
+  background-color: #323643;
+}
+
+.konten{
+ background-color: #EEEEEE;
+}
+
+.text-home{
+    margin: 150px;
+}
+
+.img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.pro{
+    background-color: #EEEEEE;
+}
+
+.prodd{
+    background-color: #EEEEEE;
+}
+
+.por{
+    background-color: #FFFFFF;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}

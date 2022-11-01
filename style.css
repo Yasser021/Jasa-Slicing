@@ -14,6 +14,52 @@ body{
     margin: 150px;
 }
 
+.resp-smk{
+    font-size: 25px;
+    font-weight: lighter;
+    margin-top: 15px;
+}
+
+.judul-respk{
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+@media only screen and (max-width : 767px){
+    .resp-smk{
+        font-size: 20px;
+        font-weight: lighter;
+    }
+
+    .judul-respk{
+        font-size: 40px;
+        font-weight: bold;
+    }
+}
+
+.jdl-hrg{
+    font-size: 23px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.hrg1{
+    font-size: 20px;
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+
+.isi{
+    font-size: 18px;
+    font-weight: normal;
+    
+}
+
+.ko{
+    text-align: center;
+}
+
 .img{
     height: 100px;
     width: 100px;
